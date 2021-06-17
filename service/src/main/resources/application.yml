@@ -1,0 +1,4 @@
+server :
+  servlet :
+    context-path: /pdf-generator
+    port : 8080
